@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    border: 2px solid black;
+}
+
+#bg-image {
+    width: 35vw;
+    height: 60vh;
+    background-image: ;
+    background-color: #444;
+    background-size: cover;
+}
+
+#quote {
+    background-color:  rgba(255, 255, 255, 0.21);
+    border: 2px solid white;
+    position: relative;
+    top: 30%;
+    font-family: sans-serif;
+    font-size: 1.8em;
+    padding: 20px;
+    color: white;
+    width: 50%;
+    
+}
+
+button {
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 1.4em;
+    font-family: sans-serif;
+    padding: 10px;
+    cursor: pointer;
+}
